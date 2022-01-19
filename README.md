@@ -11,8 +11,8 @@ Corre en un servidor express, en la ruta /Random/texto-a.png.
 
 ## Argumentos
 
-* text - El texto. Ejemplo: texto-a.png?text=hola
-* size - El tamaño de la fuente (Máximo 2000). Ejemplo: texto-a.png?size=100&text=hola
-* padding - El tamaño del padding. Ejemplo: texto-a.png?padding=100&text=hola
-* background - El color del fondo. Ejemplo: texto-a.png?background=red&text=hola
-* foreground - El color del texto. Ejemplo: texto-a.png?foreground=blue&text=hola
+* `text` - El texto. Ejemplo: texto-a.png?text=hola
+* `size` - El tamaño de la fuente (Máximo 2000). Ejemplo: texto-a.png?size=100&text=hola
+* `padding` - El tamaño del padding. Ejemplo: texto-a.png?padding=100&text=hola
+* `background` - El color del fondo. Ejemplo: texto-a.png?background=red&text=hola
+* `foreground` - El color del texto. Ejemplo: texto-a.png?foreground=blue&text=hola
