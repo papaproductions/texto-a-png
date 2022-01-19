@@ -6,7 +6,7 @@ Corre en un servidor express, en la ruta /Random/texto-a.png.
 ## Configuración
 
 1. Clona el repositorio.
-2. Abre una terminal en el directorio del repositorio y escribe `npm start`
+2. Abre una terminal en el directorio del repositorio y escribe `npm install` para instalar las dependencias necesarias.
 3. Escribe `node .` para iniciar el servidor (por predeterminado corre en puerto 5000, puedes cambiarlo escribiendo el numero de puerto despues del comando).
 
 ## Argumentos
